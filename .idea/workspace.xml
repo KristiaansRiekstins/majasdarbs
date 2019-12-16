@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5b9a579-ecf8-4eb6-bc35-acc943827ccb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/galerija.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerija.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/citiatt/hocu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/citiatt/majaslapa1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/citiatt/majaslapa2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/citiatt/majaslapa3.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/jQuery/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/jQuery/jquery2.1.4.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kontakti.html" beforeDir="false" afterPath="$PROJECT_DIR$/kontakti.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parmums.html" beforeDir="false" afterPath="$PROJECT_DIR$/parmums.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videogalerija.html" beforeDir="false" afterPath="$PROJECT_DIR$/videogalerija.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,6 +78,7 @@
       <workItem from="1576074401248" duration="2621000" />
       <workItem from="1576093272881" duration="1533000" />
       <workItem from="1576414295672" duration="14302000" />
+      <workItem from="1576507381436" duration="8803000" />
     </task>
     <servers />
   </component>
@@ -85,7 +90,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
