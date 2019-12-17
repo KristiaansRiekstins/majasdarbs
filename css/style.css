@@ -24,26 +24,27 @@ main{
 }
 
 .navbar{
-    border-radius:0px;
-    border:0px;
-    text-align: center;
+    border-radius: 0px;
+    border: 0px;
+    text-align: right;
 }
 
 
 
 .navbar-inverse {
     background-color: rebeccapurple;
-    border-color: rebeccapurple;
 }
 
 .myBtn{
-    background-color:red;
+    background-color: rebeccapurple;
+    font-style: italic;
+    border: 4px groove gold;
 }
 
 .mgallery{
     text-align: center;
-    max-height: 1080px;
-    max-width: 925px;
+    max-height: 100%;
+    max-width: 100%;
     margin-left: auto;
     margin-right: auto;
     background-color: rebeccapurple;
@@ -64,4 +65,15 @@ main{
     text-align: center;
     border: 2px groove darkred;
     max-height: 70px;
+}
+
+.videogalerija{
+    text-align: center;
+    max-height: 100%;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rebeccapurple;
+    border: 2px groove gold;
+    padding: 5px;
 }
