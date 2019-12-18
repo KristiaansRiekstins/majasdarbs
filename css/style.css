@@ -20,12 +20,14 @@ main{
 
 
 .btn-warning{
-    background-color:red;
+    background-color: red;
+    border: 4px groove orange;
+    font-style: oblique;
 }
 
 .navbar{
-    border-radius: 0px;
-    border: 0px;
+    border-radius: 0;
+    border: 0;
     text-align: right;
 }
 
@@ -33,6 +35,7 @@ main{
 
 .navbar-inverse {
     background-color: rebeccapurple;
+    border: 4px groove gold;
 }
 
 .myBtn{
@@ -49,31 +52,59 @@ main{
     margin-right: auto;
     background-color: rebeccapurple;
     border: 2px groove gold;
-    padding: 5px;
+    padding: 10px 10px 10px 10px;
 }
 .container-fluid{
 
 }
 
 .footer {
-    position: fixed;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #80c1ff;
+    background-color: #ffbff1;
     color: black;
     text-align: center;
-    border: 2px groove darkred;
-    max-height: 70px;
+    border: 2px dotted darkred;
+    max-height: 200px;
 }
 
 .videogalerija{
     text-align: center;
     max-height: 100%;
-    max-width: 100%;
+    max-width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rebeccapurple;
+    border: 4px groove black;
+    padding: 10px 10px 5px 10px;
+}
+
+.mapbox{
+    text-align: center;
+    max-height: 100%;
+    max-width: 950px;
     margin-left: auto;
     margin-right: auto;
     background-color: rebeccapurple;
     border: 2px groove gold;
-    padding: 5px;
+    padding: 10px 10px 5px 10px;
 }
+.reklama{
+    text-align: center;
+    max-height: 100%;
+    max-width: 100%;
+    background-color: rebeccapurple;
+    border: 4px groove gold;
+    padding: 10px 10px 10px 10px;
+}
+
+.footerimgbox{
+    text-align: center;
+    max-height: 100%;
+    max-width: 100%;
+}
+
