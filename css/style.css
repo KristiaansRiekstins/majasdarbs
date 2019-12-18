@@ -33,7 +33,7 @@ main{
 
 
 
-.navbar-inverse {
+.navbar-inverse{
     background-color: rebeccapurple;
     border: 4px groove gold;
 }
@@ -58,7 +58,7 @@ main{
 
 }
 
-.footer {
+.footer{
     position: relative;
     margin-left: auto;
     margin-right: auto;
@@ -108,3 +108,17 @@ main{
     max-width: 100%;
 }
 
+hr.new1{
+    border: 2px groove #ffccff;
+    border-radius: 10px;
+}
+
+.table-dark{
+    color: rebeccapurple;
+    border: 4px groove gold;
+}
+
+hr.new2{
+    border: 1px dashed black;
+    border-radius: 10px;
+}
